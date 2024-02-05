@@ -1,4 +1,10 @@
 
+# Dare2024.com Solver
+Dare2024.com Solver is a Python-based automation script designed to effortlessly solve quizzes on Dare2024.com. With this bot, you can impress your friends by consistently providing correct answers to all questions. The project supports all versions of dare2024.com and is likely to be compatible with future versions.
+
+ 
+
+
 ## Installation
 
 ```bash
